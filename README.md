@@ -1,3 +1,6 @@
+note: the original authors project is here
+https://github.com/bburdette/mousepage
+His works...go use it :) I am just making a copy to play around with.
 # mousepage
 use your phone as a mouse for your computer!  also configure custom shortcut buttons for specific apps.
 
